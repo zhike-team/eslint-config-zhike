@@ -52,4 +52,4 @@ You can override settings from the shareable config by adding them directly into
 
 ## License
 
-MIT. Copyright (c) [Zhike](http://sp.smartstudy.org).
+MIT. Copyright (c) [Zhike](http://www.smartstudy.com).
