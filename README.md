@@ -2,10 +2,10 @@
 ### Eslint rules for zhike
 
 <!-- Badges section here. -->
-[![npm](https://img.shields.io/npm/v/@zhike/eslint-config.svg)][npm-badge-url]
-[![npm](https://img.shields.io/npm/v/@zhike/eslint-config/next.svg)][npm-badge-url]
-[![npm](https://img.shields.io/npm/l/@zhike/eslint-config.svg)][npm-badge-url]
-[![npm](https://img.shields.io/npm/dm/@zhike/eslint-config.svg)][npm-badge-url]
+![npm](https://img.shields.io/npm/v/@zhike/eslint-config.svg)
+![npm](https://img.shields.io/npm/v/@zhike/eslint-config/next.svg)
+![npm](https://img.shields.io/npm/l/@zhike/eslint-config.svg)
+![npm](https://img.shields.io/npm/dm/@zhike/eslint-config.svg)
 
 [![GitHub forks](https://img.shields.io/github/forks/zhike-team/eslint-config-zhike.svg?style=social&label=Fork)](https://github.com/zhike-team/eslint-config-zhike/fork)
 [![GitHub stars](https://img.shields.io/github/stars/zhike-team/eslint-config-zhike.svg?style=social&label=Star)](https://github.com/zhike-team/eslint-config-zhike)
