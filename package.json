@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/banyudu/eslint-config-zhike.git"
+    "url": "git+https://github.com/zhike-team/eslint-config-zhike.git"
   },
   "keywords": [
     "eslint",
@@ -18,15 +18,11 @@
   "author": "Yudu Ban <banyudu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/banyudu/eslint-config-zhike/issues"
+    "url": "https://github.com/zhike-team/eslint-config-zhike/issues"
   },
-  "homepage": "https://github.com/banyudu/eslint-config-zhike#readme",
+  "homepage": "https://github.com/zhike-team/eslint-config-zhike#readme",
   "peerDependencies": {
     "eslint": ">= 4.19.1",
     "eslint-plugin-standard": ">=3.0.1"
-  },
-  "dependencies": {
-    "eslint": "^4.19.1",
-    "eslint-plugin-standard": "^3.0.1"
   }
 }
