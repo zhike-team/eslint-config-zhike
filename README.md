@@ -34,7 +34,12 @@ official ESLint website.
 To use the Zhike JavaScript Style shareable config, first run this:
 
 ```bash
-npm install --save-dev @zhike/eslint-config eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev @zhike/eslint-config\
+  eslint-config-standard\
+  eslint-plugin-standard\
+  eslint-plugin-promise\
+  eslint-plugin-import\
+  eslint-plugin-node
 ```
 
 Then, add this to your .eslintrc file:
