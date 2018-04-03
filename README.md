@@ -3,6 +3,7 @@
 ## Eslint rules for zhike
 
 <!-- Badges section here. -->
+![codestyle](https://img.shields.io/badge/codestyle-%40zhike-green.svg)
 ![travis](https://travis-ci.org/zhike-team/eslint-config-zhike.svg?branch=master)
 ![npm](https://img.shields.io/npm/v/@zhike/eslint-config.svg)
 ![npm](https://img.shields.io/npm/v/@zhike/eslint-config/next.svg)
