@@ -42,6 +42,7 @@ npm install --save-dev @zhike/eslint-config\
   eslint-plugin-promise\
   eslint-plugin-import\
   eslint-plugin-node
+  eslint
 ```
 
 Then, add this to your .eslintrc file:
@@ -56,6 +57,18 @@ Then, add this to your .eslintrc file:
 
 You can override settings from the shareable config by adding them directly into your
 `.eslintrc` file.
+
+## Badge
+
+You can add a badge to your README.md file now.
+
+With code:
+
+```markdown
+![codestyle](https://img.shields.io/badge/codestyle-%40zhike-green.svg)
+```
+
+It looks like ![codestyle](https://img.shields.io/badge/codestyle-%40zhike-green.svg)
 
 ## License
 
