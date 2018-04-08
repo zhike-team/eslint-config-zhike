@@ -73,7 +73,7 @@ It looks like ![codestyle](https://img.shields.io/badge/codestyle-%40zhike-green
 
 ## Contribute
 
-[Contribute Guide](./CONTRIBUTING)
+[Contribute Guide](./CONTRIBUTING.md)
 
 ## License
 
