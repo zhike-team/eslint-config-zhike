@@ -71,6 +71,10 @@ With code:
 
 It looks like ![codestyle](https://img.shields.io/badge/codestyle-%40zhike-green.svg)
 
+## Contribute
+
+[Contribute Guide](./CONTRIBUTE)
+
 ## License
 
 MIT. Copyright (c) [Zhike](http://www.smartstudy.com).
