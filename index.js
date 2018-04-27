@@ -8,6 +8,7 @@ module.exports = {
       ignore: [0, 1, 2, -1, 10, 24, 60, 100, 1000]
     }],
     'require-jsdoc': 'warn',
-    'valid-jsdoc': 'warn'
+    'valid-jsdoc': 'warn',
+    'require-yield': 'error'
   },
 }
