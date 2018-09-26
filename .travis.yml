@@ -10,4 +10,4 @@ deploy:
   on:
     tags: true
     branch: master
-  tag: next
+  tag: latest
