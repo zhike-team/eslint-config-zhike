@@ -9,6 +9,7 @@ module.exports = {
     }],
     'require-jsdoc': 'warn',
     'valid-jsdoc': 'warn',
-    'require-yield': 'error'
+    'require-yield': 'error',
+    'quote-props': ['error', 'as-needed']
   },
 }
