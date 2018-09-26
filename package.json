@@ -1,6 +1,6 @@
 {
   "name": "@zhike/eslint-config",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "description": "Zhike ESLint Shared Configuation",
   "main": "index.js",
   "scripts": {
